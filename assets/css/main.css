@@ -1,0 +1,24 @@
+/*CSS for the header*/
+
+.navbar .col-md-6 h4 {
+	margin-top: 20px
+}
+
+.nav-underline {
+ 
+  border-bottom: black solid 1px;
+  background-color: lightgray;
+
+}
+
+.nav-margin {
+	margin-left: 80px;
+}
+
+.nav-link {
+  margin-right: 80px;
+  font-size: 16px;
+}
+.link-margin {
+  margin-top: 15px;
+}
